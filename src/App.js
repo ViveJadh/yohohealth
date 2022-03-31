@@ -1,19 +1,19 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import NavigationBar from './components/NavigationBar';
-import Blog from './components/Blog'
-import HeadingComp from './components/HeadingComp';
-import Footer from './components/Footer';
-import Adcomponent from './components/Adcomponent';
+import { Routes, Route } from "react-router-dom"
+
+import Home from './pages/Home';
+import Fitness from './pages/Fitness';
+import Food from './pages/Food';
 
 function App() {
   return (
     <>
-      <NavigationBar />
-      <HeadingComp />
-      <Blog />
-      <Adcomponent />
-      <Footer />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="fitness" element={<Fitness />} />
+        <Route path="food" element={<Food />} />
+      </Routes>
     </>
   );
 }

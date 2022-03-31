@@ -20,10 +20,10 @@ const Cardcomp = ({ blog }) => {
                     </Card.Text>
 
                 </Card.Body>
-                <Card.Footer className='d-flex justify-content-between flex-sm-column  justify-content-sm-between  align-items-sm-stretch flex-lg-row align-items-lg-center justify-content-between'>
+                <Card.Footer className='d-flex justify-content-between flex-md-column  justify-content-md-between  align-items-md-stretch flex-lg-row align-items-lg-center justify-content-between'>
 
                     <a target="_blank" href={blog.url} rel="noreferrer" className="btn btn-primary mx-1 mt-sm-3">Read More</a>
-                    <a target="_blank" href={blog.source.url} rel="noreferrer" className="btn btn-secondary mx-1 mt-sm-3 ">{blog.source.name}</a>
+                    <a target="_blank" href={blog.source.url} rel="noreferrer" className="btn btn-secondary mx-1 mt-sm-3 d-flex align-items-center justify-content-center">{blog.source.name}</a>
 
                 </Card.Footer>
 

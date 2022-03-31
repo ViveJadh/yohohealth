@@ -48,6 +48,18 @@
     }
   },
   {
+    "title": "Artificial Sweeteners Linked to Increased Cancer Risk",
+    "description": "These sugar substitutes were linked to higher risk for overall cancer, particularly breast cancer and obesity-related cancers.",
+    "content": "The use of artificial sweeteners has long been debated among consumers and health care professionals.\nNow, a new observational study by researchers Charlotte Debras and Mathilde Touvier at the French National Institute for Health and Medical Research... [2234 chars]",
+    "url": "https://www.cancerhealth.com/article/artificial-sweeteners-linked-increased-cancer-risk",
+    "image": "https://cdn3.poz.com/123611_iStock-525029448.jpg_e2719132-d3a7-4d21-83a3-abbf36483556_x2.jpeg",
+    "publishedAt": "2022-03-30T16:46:11Z",
+    "source": {
+      "name": "Cancer Health Treatment News",
+      "url": "https://www.cancerhealth.com"
+    }
+  },
+  {
     "title": "WHO chief warns of virulent Covid variant; explains 3 scenarios how pandemic can evolve this year",
     "description": "Periodic spikes in COVID19 cases and deaths may occur as immunity wanes, which may require periodic boosting for vulnerable populations, WHO chief said",
     "content": "WHO chief warns of virulent Covid variant; explains 3 scenarios how pandemic can evolve this year\nWorld Health Organisation (WHO) chief Tedros Adhanom Ghebreyesus notified that the severity of the COVID will reduce over time but, warned that we need ... [3188 chars]",
@@ -105,18 +117,6 @@
     "source": {
       "name": "HealthDay News",
       "url": "https://consumer.healthday.com"
-    }
-  },
-  {
-    "title": "Study claims UV-LED lights can kill coronaviruses and HIV",
-    "description": "Toronto: The same light bulbs used in offices and public spaces can destroy coronaviruses and HIV, claims a research. Researchers at the University of",
-    "content": "Toronto: The same light bulbs used in offices and public spaces can destroy coronaviruses and HIV, claims a research.\nResearchers at the University of Toronto-Scarborough, Canada, killed both viruses using UV-LED lights, which can alternate between w... [2274 chars]",
-    "url": "https://www.siasat.com/study-claims-uv-led-lights-can-kill-coronaviruses-and-hiv-2299733/",
-    "image": "https://cdn.siasat.com/wp-content/uploads/2022/02/covid_Representative.jpg",
-    "publishedAt": "2022-03-30T14:41:00Z",
-    "source": {
-      "name": "The Siasat Daily",
-      "url": "https://www.siasat.com"
     }
   }
 ]
