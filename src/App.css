@@ -67,3 +67,8 @@
     transform: translateX(-100%);
   }
 }
+
+/* NavBar */
+.icon{
+  padding-right: 0.25rem;
+}

@@ -16,7 +16,7 @@ const Blog = ({ data }) => {
                 <CardGroup>
                     {data.map((blog) => {
 
-                        return <Cardcomp blog={blog} />
+                        return <Cardcomp blog={blog} key={blog.title} />
                     })}
                 </CardGroup>
 
