@@ -7,7 +7,7 @@ const HeadingComp = ({ text }) => {
             <Row>
                 <Col xs={12} className="scroll-container">
 
-                    <h3 className="scroll-text">{text}</h3>
+                    <h1 className="scroll-text">{text}</h1>
 
                 </Col>
             </Row>

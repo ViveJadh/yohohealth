@@ -4,9 +4,9 @@ import { Navbar, Container, Nav } from 'react-bootstrap';
 
 const NavigationBar = () => {
     return (
-        <Navbar bg="dark" expand="md" variant='dark'>
+        <Navbar bg="dark" expand="lg" variant='dark'>
             <Container>
-                <Navbar.Brand href="#home">
+                <Navbar.Brand href="/" className='nav-title'>
 
                     YoHoHealth</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
