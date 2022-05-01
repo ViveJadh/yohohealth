@@ -2,12 +2,12 @@
 .ad {
   margin-bottom: 1rem;
   padding: 0.5rem 0;
-  height: 360px;
+  height: 70vh;
 }
 
 .ad-heading {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 /* Image in card */

@@ -16,7 +16,7 @@ const Cardcomp = ({ blog }) => {
                 <Card.Body>
                     <Card.Title className=''>{blog.title}</Card.Title>
                     <Card.Text className='mt-4'>
-                        {`${blog.description.substring(0, 500)}...`}
+                        {`${blog.description}`}
                     </Card.Text>
 
                 </Card.Body>
